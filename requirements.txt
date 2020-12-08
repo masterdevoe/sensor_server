@@ -1,0 +1,14 @@
+Flask
+gevent
+requests
+Flask-JSON
+datetime
+colorama==0.4.4
+termcolor==1.1.0
+Pygments
+xgboost==0.90
+pandas
+numpy
+sklearn
+scipy
+statistics
